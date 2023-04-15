@@ -5,7 +5,7 @@ str2 = "Version 2"
 str3 = "Version 3"
 
 def main():
-    print(f"Test File version: {str3}")+
+    print(f"Test File version: {str3}")
     print("DIGGITY DOG")
     return
 
